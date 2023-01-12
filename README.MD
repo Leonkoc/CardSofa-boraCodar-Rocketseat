@@ -1,6 +1,6 @@
 # <h1 align="center"> BoraCodar um card de produto por Leon Krenak</h1>
 <p align="center">
-Eu sempre acredito que a melhor maneira de aprender é colocando as mãos na massa, e hoje cai sem querer na hashtag #boracodar e decidi me desafiar. Assisti ao vídeo do [@maykbrito](https://github.com/maykbrito) e comecei a trabalhar. Foi desafiador, especialmente na parte do CSS, mas a parte do JavaScript foi incrivelmente fluida. Não tenho dúvida que este desafio me ensinou muito e já estou ansioso para o próximo! #programação #javascript #boraCodar
+Eu sempre acredito que a melhor maneira de aprender é colocando as mãos na massa, e hoje cai sem querer na hashtag #boracodar e decidi me desafiar. Assisti ao vídeo do [@maykbrito] (https://github.com/maykbrito) e comecei a trabalhar. Foi desafiador, especialmente na parte do CSS, mas a parte do JavaScript foi incrivelmente fluida. Não tenho dúvida que este desafio me ensinou muito e já estou ansioso para o próximo! #programação #javascript #boraCodar
 </p>
 
 
