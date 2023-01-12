@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@400;600;700&display=swap');
+:root{
+    --bg-color:#D9CDF7;
+    --letter-color:#271A45;
+    --font: font-family: 'Crimson Pro', serif;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: var(--font);
+}
+body{
+    background-color: var(--bg-color);
+}
+.container{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.content-card{
+    padding: 30px 40px;
+    display: flex;
+    background: var(--bg-color);
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 0.5px );
+    -webkit-backdrop-filter: blur( 0.5px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+.sofa-img{
+    position: relative;}
+
+.sofa-img sofa{
+    width:  300px;
+    height: 200px;
+}
+
+.sofa{
+    position: relative;
+}
+.vetor{
+    cursor: pointer;
+    z-index: 1;
+    position: absolute;
+    top: 10px;
+    right: 30px;
+}
+.active-gif{
+    width:  449px;
+    height: 253px;
+}
+.code-product{
+    color: var(--letter-color);
+    font-size: 12px;
+}
+.cta-title{
+    margin-top: 10px;
+    font-weight: bold;
+    color: var(--letter-color);
+    font-size: 32px;
+    
+}
+.price{
+    color: var(--letter-color);
+    font-size: 16px;
+    letter-spacing: 2px;
+    margin-top: 2px;
+}
+.btn-cta{
+    font-size: 12px;
+    cursor: pointer;
+    margin-top: 30px;
+    background-color: transparent;
+    padding: 10px 15px;
+    border-radius: 40px;
+    border: 1px solid var(--letter-color);
+    color: var(--letter-color);
+}
+.btn-cta:hover{
+    border: none;
+    background-color: var(--letter-color);
+    color: var(--bg-color);
+}
